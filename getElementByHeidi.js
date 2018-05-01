@@ -1,0 +1,1 @@
+document.getElementByHeidi = document.getElementById
